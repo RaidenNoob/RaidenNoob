@@ -1,6 +1,4 @@
-Hi, I’m @RaidenNoob
-I’m interested in coding HTML, CSS, Python and JavaScript
-I’m currently learning Python
+Hi, I’m @RaidenNoob and I’m interested in coding HTML, CSS, Python and JavaScript. I’m currently learning Python
 
 <!---
 RaidenNoob/RaidenNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
